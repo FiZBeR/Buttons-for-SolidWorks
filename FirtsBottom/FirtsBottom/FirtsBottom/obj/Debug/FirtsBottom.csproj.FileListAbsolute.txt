@@ -1,0 +1,12 @@
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\obj\Debug\FirtsBottom.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\obj\Debug\FirtsBottom.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\obj\Debug\FirtsBottom.TaskpaneHostUI.resources
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\obj\Debug\FirtsBottom.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\bin\Debug\icons8-dirección-centro-24.png
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\bin\Debug\FirtsBottom.dll
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\bin\Debug\FirtsBottom.pdb
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\bin\Debug\solidworkstools.dll
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\obj\Debug\FirtsBottom.csproj.CopyComplete
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\obj\Debug\FirtsBottom.dll
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\obj\Debug\FirtsBottom.pdb
+C:\Users\Admin\Downloads\SW Botones\FirtsBottom\FirtsBottom\FirtsBottom\obj\Debug\FirtsBottom.Properties.Resources.resources
